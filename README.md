@@ -8,7 +8,7 @@ Projeto de um programa em java que simula uma Aplicação de compras, no qual ut
   <img width="70" alt="Icone da linguagem de programção Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
-## Imagens do projeto
+## 📷 Imagens do projeto
 <div>
     <img alt="Imagem do projeto especificado acima" src="img/projetoAppCompras.png" width="423">
 </div>
