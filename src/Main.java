@@ -30,7 +30,7 @@ public class Main {
             }
         }
 
-        System.out.println("*******************");
+        System.out.println("\n*******************");
         System.out.println("Compras realizadas:");
         System.out.println();
         cartao.getListaDeCompras().sort(Comparator.comparing(Produto::getPrecoProduto));
